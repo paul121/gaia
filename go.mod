@@ -3,15 +3,15 @@ module github.com/cosmos/gaia/v5
 go 1.16
 
 require (
-	github.com/cosmos/cosmos-sdk v0.43.0-beta1.0.20210616074453-3c82a32f9b2d
-	github.com/cosmos/ibc-go v1.0.0-alpha2.0.20210615132841-bae186278390
+	github.com/cosmos/cosmos-sdk v0.43.0-rc2
+	github.com/cosmos/ibc-go v1.0.0-rc2
 	github.com/gorilla/mux v1.8.0
 	github.com/pkg/errors v0.9.1
 	github.com/rakyll/statik v0.1.7
 	github.com/spf13/cast v1.3.1
 	github.com/spf13/cobra v1.1.3
 	github.com/stretchr/testify v1.7.0
-	github.com/tendermint/tendermint v0.34.10
+	github.com/tendermint/tendermint v0.34.11
 	github.com/tendermint/tm-db v0.6.4
 )
 
